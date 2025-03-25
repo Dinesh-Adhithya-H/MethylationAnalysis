@@ -1,3 +1,3 @@
-# Analysis for Methylation Prediction tool
+# All the scripts used for the Methylation from WGS prediction
 
-This repository contains the analysis code for the [Methylation Prediction Tool](https://github.com/Dinesh-Adhithya-H/MethylationPrediction).
+This repository contains the analysis code and tests for the [WGS2meth Tool](https://github.com/Dinesh-Adhithya-H/MethylationPrediction).
